@@ -22041,7 +22041,7 @@ msgid "Avatar"
 msgstr "Benutzerbild"
 
 msgid "Semester"
-msgstr ""
+msgstr "Semester"
 
 msgid "Reading comprehension"
 msgstr ""
@@ -22056,7 +22056,7 @@ msgid "%s words per minute"
 msgstr "%s Wörter pro Minute"
 
 msgid "Tutor %s is no subscribed to this course"
-msgstr ""
+msgstr "Tutor %s ist nicht in diesem Kurs eingeschrieben"
 
 msgid "Update this title in learning paths"
 msgstr "Diese Überschrift in Lernpfaden ersetzen"
@@ -22080,16 +22080,16 @@ msgid "Relaxed audio: E-mail teacher when a student ends an exercise, only if an
 msgstr "E-Mail an den Tutor senden, wenn der Lernende eine Übung beendet hat, aber nur wenn er eine mündliche Frage beantwortet hat"
 
 msgid "Student just started an exercise"
-msgstr ""
+msgstr "Student hat gerade eine Übung begonnen"
 
 msgid "Temporary score: %s open question(s) not corrected yet."
 msgstr "Temporäre Auswertung: %s offene Frage(n) noch nicht korrigiert."
 
 msgid "Annotation"
-msgstr ""
+msgstr "Anmerkung"
 
 msgid "Teacher picture"
-msgstr ""
+msgstr "Lehrerbild"
 
 msgid "Feedback if not correct"
 msgstr ""
